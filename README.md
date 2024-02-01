@@ -5,7 +5,6 @@ This is a Flask starter template from The Flask Mega-Tutorial by Miguel Grinberg
 <br>
 Basic structure of the template:
 > folder_name/<br>
->  - venv/<br>
 >  - app/<br>
 >     - templates<br>
 >       - base.html<br>
