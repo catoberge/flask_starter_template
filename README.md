@@ -7,6 +7,9 @@ Basic structure of the template:
 > folder_name/<br>
 >  - venv/<br>
 >  - app/<br>
+>     - templates<br>
+>       - base.html<br>
+>       - index.html<br>
 >     - __init__.py<br>
 >     - routes.py<br>
 >  - project_name.py
