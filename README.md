@@ -4,7 +4,7 @@ This is a Flask starter template from The Flask Mega-Tutorial by Miguel Grinberg
 <br>
 <br>
 Basic structure of the template:
-> folder_name.py/<br>
+> folder_name/<br>
 >  - venv/<br>
 >  - app/<br>
 >     - __init__.py<br>
